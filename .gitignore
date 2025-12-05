@@ -2,4 +2,4 @@
 
 #Ignore vscode AI rules
 .github\instructions\codacy.instructions.md
-day*/input.txt
+input.txt
